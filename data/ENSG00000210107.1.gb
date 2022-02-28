@@ -1,0 +1,198 @@
+LOCUS       MT 72 bp DNA HTG 14-FEB-2022
+DEFINITION  Homo sapiens chromosome MT GRCh38 partial sequence 4329..4400 reannotated via
+            EnsEMBL
+ACCESSION   chromosome:GRCh38:MT:4329:4400:1
+VERSION     chromosome:GRCh38:MT:4329:4400:1
+KEYWORDS    .
+SOURCE      human
+  ORGANISM  Homo sapiens
+            Eukaryota; Opisthokonta; Metazoa; Eumetazoa; Bilateria;
+            Deuterostomia; Chordata; Craniata; Vertebrata; Gnathostomata;
+            Teleostomi; Euteleostomi; Sarcopterygii; Dipnotetrapodomorpha;
+            Tetrapoda; Amniota; Mammalia; Theria; Eutheria; Boreoeutheria;
+            Euarchontoglires; Primates; Haplorrhini; Simiiformes; Catarrhini;
+            Hominoidea; Hominidae.
+COMMENT     This sequence was annotated by Ensembl (https://www.ensembl.org). Please visit the
+            Ensembl or EnsemblGenomes web site, http://www.ensembl.org/ or
+            http://www.ensemblgenomes.org/ for more information.
+COMMENT     All feature locations are relative to the first (5') base of the sequence in this
+            file.  The sequence presented is always the forward strand of the assembly.
+            Features that lie outside of the sequence contained in this file have clonal
+            location coordinates in the format: .:..
+COMMENT     The /gene indicates a unique id for a gene, /note="transcript_id=..." a unique id
+            for a transcript, /protein_id a unique id for a peptide and note="exon_id=..." a
+            unique id for an exon. These ids are maintained wherever possible between
+            versions.
+COMMENT     All the exons and transcripts in Ensembl are confirmed by similarity to either
+            protein or cDNA sequences.
+FEATURES             Location/Qualifiers
+     source          1..72
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     gene            J01415.116569:4263..4331
+                     /gene=ENSG00000210100.1
+                     /locus_tag="MT-TI"
+                     /note="mitochondrially encoded tRNA-Ile (AUU/C)
+                     [Source:HGNC Symbol;Acc:HGNC:7488]"
+     misc_RNA        J01415.116569:4263..4331
+                     /gene="ENSG00000210100.1"
+                     /db_xref="HGNC_trans_name:MT-TI-201"
+                     /db_xref="RNAcentral:URS000025082B"
+                     /db_xref="Reactome_transcript:R-HSA-6785470"
+                     /db_xref="Reactome_transcript:R-HSA-72306"
+                     /db_xref="Reactome_transcript:R-HSA-72312"
+                     /db_xref="Reactome_transcript:R-HSA-8868766"
+                     /db_xref="Reactome_transcript:R-HSA-8953854"
+                     /note="Mt_tRNA"
+                     /standard_name="ENST00000387365.1"
+     gene            complement(1..72)
+                     /gene=ENSG00000210107.1
+                     /locus_tag="MT-TQ"
+                     /note="mitochondrially encoded tRNA-Gln (CAA/G)
+                     [Source:HGNC Symbol;Acc:HGNC:7495]"
+     misc_RNA        complement(1..72)
+                     /gene="ENSG00000210107.1"
+                     /db_xref="GO:GO:0006412"
+                     /db_xref="GO:GO:0030533"
+                     /db_xref="HGNC_trans_name:MT-TQ-201"
+                     /db_xref="RNAcentral:URS000019B78E"
+                     /db_xref="Reactome_transcript:R-HSA-6785470"
+                     /db_xref="Reactome_transcript:R-HSA-72306"
+                     /db_xref="Reactome_transcript:R-HSA-8953854"
+                     /note="Mt_tRNA"
+                     /standard_name="ENST00000387372.1"
+     exon            J01415.116569:4263..4331
+                     /note="exon_id=ENSE00001993597.1"
+     exon            complement(1..72)
+                     /note="exon_id=ENSE00001544494.1"
+     gene            J01415.116569:4263..4331
+                     /gene=gene-TRNI.1
+                     /locus_tag="TRNI"
+                     /note="TRNI [Source:NCBI gene;Acc:4565]"
+     misc_RNA        J01415.116569:4263..4331
+                     /gene="gene-TRNI.1"
+                     /db_xref="EntrezGene:4565"
+                     /db_xref="HGNC:HGNC:7488"
+                     /db_xref="MIM_GENE:590045"
+                     /note="tRNA"
+                     /standard_name="rna-TRNI.1"
+     gene            complement(1..72)
+                     /gene=gene-TRNQ.1
+                     /locus_tag="TRNQ"
+                     /note="TRNQ [Source:NCBI gene;Acc:4572]"
+     misc_RNA        complement(1..72)
+                     /gene="gene-TRNQ.1"
+                     /db_xref="EntrezGene:4572"
+                     /db_xref="HGNC:HGNC:7495"
+                     /db_xref="MIM_GENE:590030"
+                     /note="tRNA"
+                     /standard_name="rna-TRNQ.1"
+     exon            J01415.116569:4263..4331
+                     /note="exon_id=exon-TRNI-1.1"
+     exon            complement(1..72)
+                     /note="exon_id=exon-TRNQ-1.1"
+     variation       3..3
+                     /replace="A/G"
+                     /db_xref="dbSNP:rs878943499"
+     variation       4..4
+                     /replace="G/A"
+                     /db_xref="dbSNP:rs199476141"
+     variation       7..7
+                     /replace="C/T"
+                     /db_xref="dbSNP:rs878959563"
+     variation       8..8
+                     /replace="T/C"
+                     /db_xref="dbSNP:rs41456348"
+     variation       11..11
+                     /replace="G/A"
+                     /db_xref="dbSNP:rs1603219415"
+     variation       12..12
+                     /replace="A/G"
+                     /db_xref="dbSNP:rs1603219416"
+     variation       15..15
+                     /replace="A/G"
+                     /db_xref="dbSNP:rs386828939"
+     variation       17..17
+                     /replace="C/A/T"
+                     /db_xref="dbSNP:rs28464094"
+     variation       22..22
+                     /replace="C/T"
+                     /db_xref="dbSNP:rs1603219418"
+     variation       25..25
+                     /replace="T/C"
+                     /db_xref="dbSNP:rs1603219419"
+     variation       26..26
+                     /replace="C/T"
+                     /db_xref="dbSNP:rs1603219420"
+     variation       32..32
+                     /replace="G/A"
+                     /db_xref="dbSNP:rs1603219422"
+     variation       35..35
+                     /replace="T/C"
+                     /db_xref="dbSNP:rs200009705"
+     variation       38..41
+                     /replace="AAAA/AAAAA"
+                     /db_xref="dbSNP:rs199476140"
+     variation       41..41
+                     /replace="A/G"
+                     /db_xref="dbSNP:rs1603219424"
+     variation       42..42
+                     /replace="T/C"
+                     /db_xref="dbSNP:rs1603219427"
+     variation       43..43
+                     /replace="T/C"
+                     /db_xref="dbSNP:rs1603219428"
+     variation       44..44
+                     /replace="C/T"
+                     /db_xref="dbSNP:rs1603219429"
+     variation       45..45
+                     /replace="T/C"
+                     /db_xref="dbSNP:rs1603219432"
+     variation       47..47
+                     /replace="C/T"
+                     /db_xref="dbSNP:rs1603219433"
+     variation       48..48
+                     /replace="G/A"
+                     /db_xref="dbSNP:rs1556422851"
+     variation       53..53
+                     /replace="A/G"
+                     /db_xref="dbSNP:rs1603219434"
+     variation       56..56
+                     /replace="T/A/C"
+                     /db_xref="dbSNP:rs1603219436"
+     variation       57..57
+                     /replace="A/G/T"
+                     /db_xref="dbSNP:rs386828941"
+     variation       58..58
+                     /replace="T/C"
+                     /db_xref="dbSNP:rs1569483940"
+     variation       59..59
+                     /replace="C/T"
+                     /db_xref="dbSNP:rs1556422854"
+     variation       60..60
+                     /replace="A/G"
+                     /db_xref="dbSNP:rs375986475"
+     variation       66..66
+                     /replace="C/A/T"
+                     /db_xref="dbSNP:rs1603219441"
+     variation       67..67
+                     /replace="A/G"
+                     /db_xref="dbSNP:rs1603219443"
+     variation       71..71
+                     /replace="T/C"
+                     /db_xref="dbSNP:rs1603219445"
+     variation       72..72
+                     /replace="A/G"
+                     /db_xref="dbSNP:rs1603219449"
+     STS             J01415.116569:4189..4813
+                     /standard_name="PMC55343P1"
+                     /db_xref="UniSTS_NUM:273322"
+                     /db_xref="UniSTS:PMC55343P1"
+                     /note="map_weight=2"
+     misc_feature    1..72
+                     /note="contig J01415.116569 4329..4400(1)"
+BASE COUNT          22 a         26 c          9 g         15 t          0 n
+ORIGIN
+        1 CTAGGACTAT GAGAATCGAA CCCATCCCTG AGAATCCAAA ATTCTCCGTG CCACCTATCA
+       61 CACCCCATCC TA
+//

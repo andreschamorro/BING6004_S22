@@ -1,0 +1,4 @@
+# Ignore Logs
+jupiter_*
+# Ignore the build directory
+/tests
