@@ -1,4 +1,8 @@
 # Ignore Logs
 jupiter_*
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
 # Ignore the build directory
 /tests
+/Assingments
+/chrs
