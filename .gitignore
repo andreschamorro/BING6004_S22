@@ -1,8 +1,14 @@
 # Ignore Logs
 jupiter_*
 .ipynb_checkpoints
+.python-version
+.gitignore
 */.ipynb_checkpoints/*
 # Ignore the build directory
 /tests
 /Assingments
 /chrs
+/data/pbmc_1k
+Slides/figures
+Slides/cache
+Slides/01\ scRNA-Seq.ipynb
