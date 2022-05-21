@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/NBISweden/workshop-scRNAseq/master/labs/data/covid_data_GSE149689/sub/Normal_PBMC_13.h5
+https://raw.githubusercontent.com/NBISweden/workshop-scRNAseq/master/labs/data/covid_data_GSE149689/sub/Normal_PBMC_14.h5
+https://raw.githubusercontent.com/NBISweden/workshop-scRNAseq/master/labs/data/covid_data_GSE149689/sub/Normal_PBMC_19.h5
+https://raw.githubusercontent.com/NBISweden/workshop-scRNAseq/master/labs/data/covid_data_GSE149689/sub/Normal_PBMC_5.h5
+https://raw.githubusercontent.com/NBISweden/workshop-scRNAseq/master/labs/data/covid_data_GSE149689/sub/nCoV_PBMC_1.h5
+https://raw.githubusercontent.com/NBISweden/workshop-scRNAseq/master/labs/data/covid_data_GSE149689/sub/nCoV_PBMC_15.h5
+https://raw.githubusercontent.com/NBISweden/workshop-scRNAseq/master/labs/data/covid_data_GSE149689/sub/nCoV_PBMC_16.h5
+https://media.githubusercontent.com/media/NBISweden/workshop-scRNAseq/master/labs/data/covid_data_GSE149689/sub/nCoV_PBMC_17.h5
